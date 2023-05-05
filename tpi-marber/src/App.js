@@ -5,16 +5,11 @@ import Products from "./Components/Products/Products";
 
 function App() {
   return (
-    <div className="bg">
+    <div>
       <div className="App">
-        <header className="App-header">
-          <Navbar />
-        </header>
-        <body>
-          <Banner />
-          <Products />
-        </body>
-        <div></div>
+        <Navbar />
+        <Banner />
+        <Products />
       </div>
     </div>
   );

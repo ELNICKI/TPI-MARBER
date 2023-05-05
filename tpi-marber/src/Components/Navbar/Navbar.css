@@ -6,7 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 
-header {
+.header {
   position: fixed;
   top: 0;
   left: 0;
@@ -17,7 +17,7 @@ header {
   align-items: center;
   z-index: 99;
 }
-.logo {
+img {
   font-size: 1.2em;
   display: flex;
   justify-content: center;
@@ -77,4 +77,6 @@ header {
 .navigation .Login-btn:hover {
   background: #fff;
   color: #162938;
+}
+.banner {
 }

@@ -2,26 +2,6 @@
   text-align: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-}
-
 .App-link {
   color: #61dafb;
 }
-
-/* .bg {
-  background-image: url("./Image/Screenshot_496.png");
-  width: 200px;
-  height: 200px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  min-height: 380px;
-} */
