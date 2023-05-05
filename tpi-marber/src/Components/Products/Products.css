@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.card {
+  border: 1px solid rgb(74, 74, 74);
+  padding: 30px 40px;
+  border-radius: 5px;
+  margin: 20px 25px;
+}

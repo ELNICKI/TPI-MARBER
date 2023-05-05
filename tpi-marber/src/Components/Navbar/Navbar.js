@@ -1,10 +1,9 @@
 import "./Navbar.css";
-import images from "../../assets/images";
 
 function Navbar() {
   return (
     <header>
-      <img src={require(images.logo)} />
+      <img src={require("../../img/Logo.png").default} alt="" />
       <nav class="navigation">
         <a href="#">Home</a>
         <a href="#">About</a>

@@ -10,8 +10,11 @@ function App() {
         <header className="App-header">
           <Navbar />
         </header>
-        <Banner />
-        <Products />
+        <body>
+          <Banner />
+          <Products />
+        </body>
+        <div></div>
       </div>
     </div>
   );
